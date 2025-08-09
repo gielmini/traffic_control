@@ -1,0 +1,21 @@
+# to run on your local machine
+# 1. install SUMO as described here: https://sumo.dlr.de/docs/Installing/index.html
+# 2. create a virtual environment and activate it
+# 3. install the requirements using pip install -r requirements.txt
+
+
+collector==0.4.6
+cvxpy==1.6.1
+lxml==5.3.1
+matplotlib==3.10.0
+networkx==3.4.2
+numpy==2.2.3
+optuna==4.2.1
+pandas==2.2.3
+qpsolvers==4.4.0
+scikit_learn==1.6.1
+scipy==1.15.2
+sumolib==1.22.0
+SumoNetVis==1.6.1
+traci==1.22.0
+imageio==2.37.0
